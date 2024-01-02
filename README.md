@@ -1,0 +1,1 @@
+This is a project that's part of The Odin Project. It will help me develop my coding skills which I will use to eventually build out an application for Office 365.
