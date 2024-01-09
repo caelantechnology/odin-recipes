@@ -1,0 +1,16 @@
+body {
+    color: orange;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    color: red;
+    background-color: blue;
+}
+
+.descript {
+    color: brown;
+    font-size: large;
+    text-align: center;
+}
